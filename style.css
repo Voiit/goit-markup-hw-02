@@ -1,0 +1,156 @@
+.web>span {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.web {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.web:hover,.web:focus {
+    color: #2196F3;
+}
+
+.studio {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.studio:hover,.studio:focus {
+    color: #2196F3;
+}
+
+.portfolio {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.portfolio:hover,.portfolio:focus {
+    color: #2196F3;
+}
+
+.contact {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.contact:hover,.contact:focus {
+    color: #2196F3;
+}
+
+.mail:hover,.mail:focus {
+    color: #2196F3;
+}
+
+.tel:hover,.tel:focus{
+    color: #2196F3;
+}
+
+.header {
+    padding: 35px 0 0;
+    display: flex;
+    align-items: center;
+    margin-bottom: 80px;    
+}
+
+.menu{
+    margin-right: 50px;
+}
+
+.menu-list {
+    display: flex;
+}
+
+.menu-item:first-child {
+    margin-right: 50px;
+}
+
+.menu-item {
+    margin-right: 50px;
+}
+
+.menu-item:last-child {
+    margin-right: 0;
+    margin-left: 200px;
+    display: flex;
+}
+
+
+.mailtel {
+    display: flex;
+}
+
+.mail {
+    margin-right: 50px;
+}
+
+.zagolovok {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+/* or 136% */
+
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.banner {
+    background-color: #2F303A;
+    text-align: center;
+}
+
+.button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 30px;  
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    
+}
+.button {
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+
+.button {
+    margin-right: 100px;
+}
