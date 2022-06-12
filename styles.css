@@ -203,7 +203,7 @@ color: #FFFFFF;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 30px;  
     letter-spacing: 0.06em;
     color: #FFFFFF;
@@ -388,7 +388,7 @@ color: #FFFFFF;
     line-height: 31px;
     text-decoration: none;
     letter-spacing: 0.03em;
-    color: #212121;
+    color: #ffffff;
 }
 
 .webst:hover,.webst:focus {
@@ -445,3 +445,575 @@ color: #FFFFFF;
     list-style: none;
 }
 
+.web>span {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.web {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.web:hover,
+.web:focus {
+    color: #2196F3;
+}
+
+.studio {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.studio:hover,
+.studio:focus {
+    color: #2196F3;
+}
+
+.portfolio {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.portfolio:hover,
+.portfolio:focus {
+    color: #2196F3;
+}
+
+.contact {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.contact:hover,
+.contact:focus {
+    color: #2196F3;
+}
+
+.menu-list {
+    list-style: none;
+}
+
+.mailtel {
+    list-style: none;
+}
+
+.mail {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+.mail:hover,
+.mail:focus {
+    color: #2196F3;
+}
+
+.tel {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+.tel:hover,
+.tel:focus {
+    color: #2196F3;
+}
+
+.header {
+    padding: 35px 0 0;
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    margin-right: 50px;
+}
+
+.menu-list {
+    display: flex;
+}
+
+.menu-item:first-child {
+    margin-right: 50px;
+}
+
+.menu-item {
+    margin-right: 50px;
+}
+
+.mailtel {
+    display: flex;
+}
+
+.mail {
+    margin-right: 50px;
+}
+
+.contact {
+    margin-right: 420px;
+}
+
+
+
+.button1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.button1 {
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.button1:hover,
+.button1:focus {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+
+.button2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.button2 {
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.button2:hover,
+.button2:focus {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background: #2196F3;
+}
+
+.button3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.button3 {
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.button3:hover,
+.button3:focus {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background: #2196F3;
+}
+
+.button4 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.button4 {
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.button4:hover,
+.button4:focus {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background: #2196F3;
+}
+
+.button5 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.button5 {
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.button5:hover,
+.button5:focus {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background: #2196F3;
+}
+
+.button1 {
+    margin-right: 8px;
+}
+
+.button2 {
+    margin-right: 8px;
+}
+
+.button3 {
+    margin-right: 8px;
+}
+
+.button4 {
+    margin-right: 8px;
+}
+
+.button5 {
+    margin-right: 8px;
+}
+
+.allbutton {
+    display: flex;
+    list-style: none;
+    padding-top: 94 px;
+    padding-left: 480px;
+    padding-right: 480px;
+    padding-bottom: 50px;
+}
+
+.firstpart {
+    padding-left: 145px;
+    padding-right: 215px;
+    padding-bottom: 30px;
+    display: flex;
+    list-style: none;
+}
+
+.secondpart {
+    padding-left: 145px;
+    padding-right: 215px;
+    padding-bottom: 30px;
+    display: flex;
+    list-style: none;
+}
+
+.thirdpart {
+    padding-left: 145px;
+    padding-right: 215px;
+    padding-bottom: 30px;
+    display: flex;
+    list-style: none;
+}
+
+.Price2 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div1 {
+    padding-left: 24px;
+}
+
+.Price3 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div2 {
+    padding-left: 24px;
+}
+
+.Price4 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div3 {
+    padding-left: 24px;
+}
+
+.Price5 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div4 {
+    padding-left: 24px;
+}
+
+.Price6 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div5 {
+    padding-left: 24px;
+}
+
+.Price7 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div6 {
+    padding-left: 24px;
+}
+
+.Price8 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div7 {
+    padding-left: 24px;
+}
+
+.Price9 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div8 {
+    padding-left: 24px;
+}
+
+.Price0 {
+    margin: 0px 30px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background-color: var(--white-color);
+    outline-color: none;
+    margin-right: 30px;
+    margin-right: 30px;
+}
+
+.div9 {
+    padding-left: 24px;
+}
+
+.webst>span {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.webst {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.webst:hover,
+.webst:focus {
+    color: #2196F3;
+}
+
+.footer {
+    padding-left: 215px;
+    background-color: #2F303A;
+}
+
+.address {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF
+}
+
+.address:hover,
+.address:focus {
+    color: #2196F3;
+}
+
+.mailfoot {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.mailfoot:hover,
+.mailfoot:focus {
+    color: #2196F3;
+}
+
+.telfoot {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.telfoot:hover,
+.telfoot:focus {
+    color: #2196F3;
+}
+
+.ad {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
